@@ -1,35 +1,33 @@
 # Basic
-title: 潘柏信
+title: 凌志文
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Android / Java
 url: "http://lingzhiwen.github.io"
 
 # Comment
 comment:
-    # disqus: leopard
-    duoshuo: leopard 
+    # disqus: lingzhiwen
+    duoshuo: lingzhiwen 
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # twitter: 
-    mail: leopardpan@icloud.com
+    weibo: 2008602327 
+    github: lingzhiwen
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+#baidu:
+#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+#ga:
+#    id: UA-84134159-3   
+#    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
