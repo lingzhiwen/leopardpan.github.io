@@ -1,1 +1,9 @@
-test
+---
+layout: post
+title: "个人博客"
+date: 2017-01-23 
+description: "属于自己的博客"
+tag: 博客 
+---   
+
+　　test
